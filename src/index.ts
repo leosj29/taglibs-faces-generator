@@ -52,6 +52,10 @@ const tagLibsFromXml = [
         fileName: 'omnifaces',
         versions: [
             {
+                version: '3.0',
+                url: 'https://raw.githubusercontent.com/omnifaces/omnifaces/3.0/src/main/resources/META-INF/omnifaces-ui.taglib.xml'
+            },
+            {
                 version: '4.0',
                 url: 'https://raw.githubusercontent.com/omnifaces/omnifaces/4.0/src/main/resources/META-INF/omnifaces-ui.taglib.xml'
             }
